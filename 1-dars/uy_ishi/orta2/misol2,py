@@ -1,0 +1,5 @@
+son = int(input("son kiriting: "))
+k = 0
+while 3 ** k < son:
+    k += 1
+print(k-1)
