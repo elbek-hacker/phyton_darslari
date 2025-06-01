@@ -1,0 +1,1 @@
+satrlar_farqi('olma', 'olcha')
