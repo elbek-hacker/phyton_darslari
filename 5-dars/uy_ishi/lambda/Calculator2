@@ -1,0 +1,19 @@
+son1 = int(input("son: "))
+mark = input("amal: ")
+son2 = int(input("son: "))
+
+amal_dict = {
+    '+': lambda a, b: a + b,
+    '-': lambda a, b: a - b,
+    '*': lambda a, b: a * b,
+    '/': lambda a, b: a / b if b != 0 else None
+}
+
+if mark in amal_dict:
+    natija = amal_dict[mark](son1, son2)
+    if natija is None:
+        print("Xato: sonni nolga bo'lib bo'lmaydi.")
+    else:
+        print(f"{son1} {mark} {son2} = {natija}")
+else:
+    print("Noto'g'ri amal kiritildi!")
