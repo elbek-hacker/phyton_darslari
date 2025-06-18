@@ -1,0 +1,86 @@
+[
+    {
+        "name": "olma",
+        "stock": 36,
+        "price": 23,
+        "category": "meva"
+    },
+    {
+        "name": "anor",
+        "stock": 234,
+        "price": 123,
+        "category": "meva"
+    },
+    {
+        "name": "banan",
+        "stock": 58,
+        "price": 95,
+        "category": "meva"
+    },
+    {
+        "name": "shaftoli",
+        "stock": 44,
+        "price": 78,
+        "category": "meva"
+    },
+    {
+        "name": "uzum",
+        "stock": 70,
+        "price": 105,
+        "category": "meva"
+    },
+    {
+        "name": "kartoshka",
+        "stock": 200,
+        "price": 15,
+        "category": "sabzavot"
+    },
+    {
+        "name": "sabzi",
+        "stock": 180,
+        "price": 12,
+        "category": "sabzavot"
+    },
+    {
+        "name": "piyoz",
+        "stock": 190,
+        "price": 10,
+        "category": "sabzavot"
+    },
+    {
+        "name": "bodring",
+        "stock": 160,
+        "price": 18,
+        "category": "sabzavot"
+    },
+    {
+        "name": "pomidor",
+        "stock": 170,
+        "price": 20,
+        "category": "sabzavot"
+    },
+    {
+        "name": "kola",
+        "stock": 60,
+        "price": 80,
+        "category": "ichimlik"
+    },
+    {
+        "name": "fanta",
+        "stock": 55,
+        "price": 75,
+        "category": "ichimlik"
+    },
+    {
+        "name": "sprite",
+        "stock": 50,
+        "price": 70,
+        "category": "ichimlik"
+    },
+    {
+        "name": "erjg",
+        "stock": 23,
+        "price": 23,
+        "category": "anor"
+    }
+]

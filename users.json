@@ -1,0 +1,102 @@
+[
+    {
+        "username": "Jasur",
+        "password": "123",
+        "role": "admin"
+    },
+    {
+        "username": "Otabek",
+        "password": "123",
+        "role": "user"
+    },
+    {
+        "username": "elbek",
+        "password": "elbek",
+        "role": "user"
+    },
+    {
+        "username": "aa",
+        "password": "aa",
+        "role": "user"
+    },
+    {
+        "username": "dilshod99",
+        "password": "pass1",
+        "role": "user"
+    },
+    {
+        "username": "muhammad",
+        "password": "pass2",
+        "role": "user"
+    },
+    {
+        "username": "asrorbek",
+        "password": "asror123",
+        "role": "user"
+    },
+    {
+        "username": "nodirbek",
+        "password": "pass3",
+        "role": "user"
+    },
+    {
+        "username": "shahzod",
+        "password": "1234",
+        "role": "user"
+    },
+    {
+        "username": "azizxon",
+        "password": "aziz123",
+        "role": "user"
+    },
+    {
+        "username": "malika",
+        "password": "malika12",
+        "role": "user"
+    },
+    {
+        "username": "diyorbek",
+        "password": "diyor456",
+        "role": "admin"
+    },
+    {
+        "username": "sardor07",
+        "password": "sardor07",
+        "role": "user"
+    },
+    {
+        "username": "ulugbek",
+        "password": "ulug123",
+        "role": "user"
+    },
+    {
+        "username": "sanjar",
+        "password": "sanjar1",
+        "role": "user"
+    },
+    {
+        "username": "madina",
+        "password": "madina22",
+        "role": "user"
+    },
+    {
+        "username": "kamron",
+        "password": "kamron77",
+        "role": "user"
+    },
+    {
+        "username": "lola",
+        "password": "lola123",
+        "role": "admin"
+    },
+    {
+        "username": "amir",
+        "password": "amirpass",
+        "role": "user"
+    },
+    {
+        "username": "admin2",
+        "password": "admin2pass",
+        "role": "admin"
+    }
+]
